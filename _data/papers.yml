@@ -7,11 +7,13 @@
   venue: "ACM Symposium on Parallelism in Algorithms and Architectures"
   venue_short: "SPAA"
   year: 2024
-  status: "to appear"
+  status: "**Best Paper Award**"
   tags: [
     "gc",
   ]
   website: /gc
+  doi: 10.1145/3626183.3659941
+  copy_local: https://drive.google.com/file/d/1nAnYJSmnK90blaLZ1179_Wx5Zwrj9XOy/view?usp=sharing
 
   abstract:
     "Reclamation schemes for concurrent data structures tackle the challenge of
