@@ -41,6 +41,7 @@ Specifically, our focus is on the *design* and *verification* of concurrent and 
   + [Concurrent garbage collector]({{ site.baseurl }}{% link _projects/gc.md %}), focused on high throughput and low latency
   + [FPGA high-performance networking systems]({{ site.baseurl }}{% link _projects/fpga.md %}), emphasizing ease of programming
 
+
 - **Verifying concurrent and parallel systems**: Ensuring the safety of concurrent software and hardware through testing alone is challenging due to the inherent non-determinism from scheduling, optimization, and other factors. 
   
   **Thus, we are developing verification techniques** to prove the correctness of concurrent systems and verify real-world systems like operating systems, database systems, or cache coherence protocols. This helps us explore whether verification is more cost-effective than testing for concurrent systems. Our verification projects include:
