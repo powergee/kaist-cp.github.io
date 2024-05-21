@@ -12,7 +12,7 @@ This document contains all the information you need, so please read it thoroughl
 
 - **Feel free to contact [Jeehoon]({{ site.baseurl }}/jeehoon.kang).** 
   There are no barriers to reaching out to Jeehoon, such as GPA or experience. 
-  You can also connect with Jeehoon through [comments](https://www.fearless.systems/#contact)!
+  You can also connect with Jeehoon through [comments]({{ site.baseurl }}/#contact)!
 
 - **Create an email account in the format `{firstname}.{lastname}{prefix}@kaist.ac.kr`** (if you're a KAIST student).
     + Ideally, `{prefix}` should be empty. If taken, add a random number, like `{firstname}.{lastname}42@kaist.ac.kr`.

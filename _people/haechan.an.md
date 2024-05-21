@@ -13,7 +13,7 @@ excerpt: "Haechan An's website"
 I am **Master's student at [KAIST School of Computing](https://cs.kaist.ac.kr/)**.
 The followings are my interests: **Programming language theories** including formal semantics, abstract interpretation, interactive theorem proving and concurrency; **Building complex systems** such as compilers in safe and usable languages like Rust; Additionally, applying **learning-based techniques** to the above area.
 
-I've worked on building [AI serving systems](https://www.fearless.systems/ai-system) and AI-based automation of formal verification.
+I've worked on building [AI serving systems]({{ site.baseurl }}/ai-system) and AI-based automation of formal verification.
 Now, I'm starting a project on deep learning compilers. 
 
 

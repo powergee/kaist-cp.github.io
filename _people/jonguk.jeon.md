@@ -10,7 +10,7 @@ excerpt: "Jonguk Jeon's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/jonguk.jeon.jpg" alt="{{ person.name }}">
 
-I am an undergraduate intern at the [Concurrency and Parallelism Laboratory](https://www.fearless.systems). I'm passionate about impacting the world with computer science. I love creative HOWs in the field of computer science. A notable example is [AWS Aurora DB](https://www.amazon.science/publications/amazon-aurora-design-considerations-for-high-throughput-cloud-native-relational-databases). I was fascinated by the software techniques used to ensure high availability, despite relying on fundamentally fallible hardware. 
+I am an undergraduate intern at the [Concurrency and Parallelism Laboratory]({{ site.baseurl }}/). I'm passionate about impacting the world with computer science. I love creative HOWs in the field of computer science. A notable example is [AWS Aurora DB](https://www.amazon.science/publications/amazon-aurora-design-considerations-for-high-throughput-cloud-native-relational-databases). I was fascinated by the software techniques used to ensure high availability, despite relying on fundamentally fallible hardware. 
 
 My interest in concurrency and parallelism was sparked by witnessing its impressive capabilities, especially its potential to accelerate processes up to 20 times faster than some of the most popular open-source projects. I chose to delve deeper into concurrency as it forms the backbone of large-scale systems that have a significant impact. Additionally, I am interested in foundational concepts such as type theory and systems architecture, aiming for common and fundamental impact.
 

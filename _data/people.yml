@@ -213,7 +213,7 @@
   orcid: 0009-0000-7070-3578
   educations:
     [
-      "(2024 - Current) M.S. student in AI Semiconductor. KAIST (supervisor: Prof. [Jeehoon Kang](https://www.fearless.systems/jeehoon.kang/)).",
+      "(2024 - Current) M.S. student in AI Semiconductor. KAIST (supervisor: Prof. [Jeehoon Kang]({{ site.baseurl }}/jeehoon.kang/)).",
       "(2022) B.S. in Computer Science. University of Seoul."
     ]
 
@@ -306,7 +306,7 @@
   google_scholar: https://scholar.google.com/citations?user=XWXUw2IAAAAJ
   educations:
     [
-      "(2023) M.S. student in Computer Science. KAIST (supervisor: Prof. [Jeehoon Kang](https://www.fearless.systems/jeehoon.kang/)).",
+      "(2023) M.S. student in Computer Science. KAIST (supervisor: Prof. [Jeehoon Kang]({{ site.baseurl }}/jeehoon.kang/)).",
       "(2021) B.S. in Computer Science. KAIST.",
     ]
 
@@ -322,7 +322,7 @@
   google_scholar: https://scholar.google.co.kr/citations?user=8ez_CnwAAAAJ&hl
   educations:
     [
-      "(2021) M.S. in Computer Science. KAIST (supervisor: Prof. [Jeehoon Kang](https://www.fearless.systems/jeehoon.kang/)).",
+      "(2021) M.S. in Computer Science. KAIST (supervisor: Prof. [Jeehoon Kang]({{ site.baseurl }}/jeehoon.kang/)).",
       "(2019) B.S. in Computer Science and Electrical Engineering. Handong Global University.",
     ]
 

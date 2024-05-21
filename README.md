@@ -32,4 +32,4 @@ Afterward, view the website using VSCode's port forwarding feature.
 - Add your information (e.g., name, status, GitHub ID) to `people.yml`.
 
 - Create a new file `{firstname}.{lastname}.md` under the directory `_people/`. Refer to `_people/jeehoon.kang.md` as an example.
-  Your website will be accessible at `https://www.fearless.systems/{firstname}.{lastname}`.
+  Your website will be accessible at `{{ site.baseurl }}/{firstname}.{lastname}`.

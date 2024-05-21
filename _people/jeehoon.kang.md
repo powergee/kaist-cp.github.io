@@ -13,7 +13,7 @@ If this interests you, please **review these [instructions]({{ site.baseurl }}/j
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/jeehoon.kang.jpg" alt="{{ person.name }}">
 
-I am a **Tenure-Track Associate Professor at the [KAIST School of Computing](https://cs.kaist.ac.kr)** and the **Principal Investigator at the [Concurrency and Parallelism Laboratory](https://www.fearless.systems)**.
+I am a **Tenure-Track Associate Professor at the [KAIST School of Computing](https://cs.kaist.ac.kr)** and the **Principal Investigator at the [Concurrency and Parallelism Laboratory]({{ site.baseurl }}/)**.
 Additionally, I serve as an **Adjunct Faculty at the [Graduate School of AI Semiconductor](https://aisemi.kaist.ac.kr/), the [Department of Semiconductor System Engineering](https://sse.kaist.ac.kr/), and the [Graduate School of Quantum Science And Technology](https://quantum.kaist.ac.kr/)**.
 My Ph.D. in Computer Science was earned at Seoul National University, supervised by [Prof. Chung-Kil Hur](https://sf.snu.ac.kr/gil.hur). 
 I was also advised by [Prof. Kwangkeun Yi](http://kwangkeunyi.snu.ac.kr/).

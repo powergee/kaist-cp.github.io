@@ -66,7 +66,7 @@ permalink: /tools
     + For creating new organizations or repositories, ask Jeehoon.
     + Set up email notifications for mentions and issue/PR/MR comments.
 
-- [Website]({{ site.baseurl }})
+- [Website]({{ site.baseurl }}/)
     + Create your website by sending a PR to [the website repository](https://github.com/kaist-cp/kaist-cp.github.io).
     + Regularly update your website.
 
