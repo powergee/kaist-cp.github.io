@@ -269,6 +269,19 @@
       "(2025) B.S. in School of Computing. KAIST (expected).",
     ]
 
+- id: tanapoom.sermchaiwong
+  kaist_id: tanapoom.se
+  name: Tanapoom Sermchaiwong
+  status: present
+  role: B.S. Student
+  image: assets/images/people/tanapoom.sermchaiwong.jpg
+  place: Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+  github: tanapthetimid
+  educations:
+    [
+      "(2024) B.S. in Department of Mathematical Sciences. KAIST.",
+    ]
+
 - id: seungho.jang
   kaist_id: seungho.jang
   name: Seungho Jang
