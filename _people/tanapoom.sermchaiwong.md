@@ -10,7 +10,7 @@ excerpt: "Tanapoom Sermchaiwong's website"
 
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.baseurl }}/assets/images/people/tanapoom.sermchaiwong.jpg" alt="{{ person.name }}">
 
-I am a research intern at [KAIST Concurrency and Parallelism Lab](https://fearless.systems/).
+I am a research intern at [KAIST Concurrency and Parallelism Lab]({{ site.baseurl }}/).
 My research interest is in Program Analysis, Compilers, HDL, AI Hardware.
 
 {% include person_contact.md person_id=person_id %}
