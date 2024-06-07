@@ -14,6 +14,9 @@
   website: /gc
   doi: 10.1145/3626183.3659941
   copy_local: https://drive.google.com/file/d/1nAnYJSmnK90blaLZ1179_Wx5Zwrj9XOy/view?usp=sharing
+  artifact_local:
+  - name: benchmark
+    url: https://github.com/kaist-cp/smr-benchmark
 
   abstract:
     "Reclamation schemes for concurrent data structures tackle the challenge of
@@ -53,6 +56,9 @@
   website: /gc
   doi: 10.1145/3656383
   copy_local: https://drive.google.com/file/d/1CsFFEPEovU2z--Tf9sYo6RlKEBiyaN_z/view?usp=sharing
+  artifact_local:
+  - name: benchmark
+    url: https://github.com/kaist-cp/smr-benchmark
 
   abstract:
     "Memory management for optimistic concurrency in unmanaged programming
